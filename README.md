@@ -1,1 +1,1 @@
-# How4 
+Instala PysimpleGui antes de executar o sistema: python -m pip install PySimpleGUI
