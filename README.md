@@ -1,1 +1,2 @@
-Instala PysimpleGui antes de executar o sistema: python -m pip install PySimpleGUI
+Instala PyQt5 antes de executar o sistema: pip install pyqt5
+Instala Qt designer antes de executar o sistema: pip install pyqt5-tools
